@@ -53,3 +53,12 @@ Makefile.in
 /install-sh
 /missing
 /stamp-h1
+/config.guess
+/config.log
+/config.status
+/config.sub
+Makefile
+/libtool
+/ltmain.sh
+.deps/
+.libs/
