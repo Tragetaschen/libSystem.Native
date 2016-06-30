@@ -1,5 +1,4 @@
 AC_INIT([libSystem.Native], [0.1])
-AC_CONFIG_MACRO_DIR([m4])
 
 AM_INIT_AUTOMAKE
 
