@@ -1,3 +1,3 @@
-lib_LTLIBRARIES = libSystem.Native.la
+lib_LTLIBRARIES = libsystem-native.la
 
-libSystem_Native_la_SOURCES = GetUnixName.c
+libsystem_native_la_SOURCES = GetUnixName.c
